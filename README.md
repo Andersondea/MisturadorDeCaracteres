@@ -16,21 +16,8 @@ Um utilitário de console em C# que embaralha caracteres de uma string fornecida
 - [.NET SDK](https://dotnet.microsoft.com/download) (versão 6.0 ou superior recomendada).
 - Um terminal ou IDE compatível (ex.: Visual Studio, VS Code).
 
-## Como usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/misturador-de-caracteres.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd misturador-de-caracteres
-   ```
-3. Execute o programa:
-   ```bash
-   dotnet run
-   ```
-4. Siga as instruções no console:
+Siga as instruções no console:
    - Digite os caracteres a serem misturados.
    - (Opcional) Informe uma sequência para manter fixa.
    - Escolha o número de misturas.
@@ -70,10 +57,3 @@ O que deseja fazer?
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, como novas funcionalidades ou correções. Todas as contribuições são bem-vindas!
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Desenvolvido com 💻 e paixão por código! 🚀
